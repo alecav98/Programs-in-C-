@@ -1,20 +1,8 @@
 /****************************************************
-File Name:prog04_jac571.cpp
-
-Author: Jorge Caviedes
-
-Lecture Section: TTH 9:30-11:00
-Lab Instructor: Sandhya Rani Doti
-Lab Section: L08
-
-Date: 2/21/2017
-Problem Number: 1
-CS 1428 Spring 2017
-Instructor: Priebe
-
 The program will take input from a text file,
 use the numbers from the input file to calculate some data,
-and output the results in a html webpage.
+and output the results in a html webpage. This program
+uses score_info.txt.
 *****************************************************/
 
 #include <iostream>
