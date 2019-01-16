@@ -1,13 +1,4 @@
 /****************************************************
-File Name:prog02__jac571.cpp
-Author: Jorge Caviedes
-Lab Instructor: Sandhya Rani Doti
-Lab Section: L08
-Date: 2/1/2017
-Problem Number: 2
-CS 1428 Spring 2017
-Instructor: Priebe
-Lecture Section: TTH 9:30-10:50
 The program will print the number of box seat tickets sold,
 the number of general admission tickets sold, the gross receipts from ticket sales,
 the amount paid to the parking manager, the snack bar profit, and the team profit.
