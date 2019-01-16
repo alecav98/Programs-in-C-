@@ -1,17 +1,4 @@
 /****************************************************
-File Name:prog3__jac571.cpp
-
-Lab Section Number: L08
-Lab Section Instructor: Sandhya Rani Doti
-
-Author: Jorge Caviedes
-Date: 2/10/2017
-Problem Number: 1
-CS 1428 Spring 2017
-Lecture Instructor: Priebe
-
-
-
 The program will calculate the rat's IQ and then print
 it out on the screen.
 *****************************************************/
