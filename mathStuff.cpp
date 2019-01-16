@@ -1,11 +1,6 @@
-/* mathStuff_jac571.cpp
-
-Roger Priebe and Jorge Caviedes
-cs1428 10/15/07 (updated 3/11/08)
-
-Finish comments here
-the program will compute if a number is prime, find primes
-in between 1 and it, find the number's fibonacci number,
+/* 
+The program will compute if a number is prime, find primes
+in between 1 and the number, find the number's fibonacci number,
 and finally print out the prime factorization of the number
 */
 
