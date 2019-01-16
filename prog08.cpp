@@ -1,19 +1,7 @@
 /****************************************************
-File Name:prog08_jac571.cpp
-
-Lab Section Number: L08
-Lab Section Instructor: Sandhya Rani Doti
-
-Author: Jorge Caviedes
-Date: 4/27/2017
-Problem Number: 1
-CS 1428 Spring 2017
-Lecture Instructor: Priebe
-
-
 The program will store the list of cities in an array of structures and then use that array to write a series of functions.
 The functions will get the data, print it out, calculate distance from one city to the next, calculate total distance
-and calculate a shorter path than the current one.
+and calculate a shorter path than the current one. This program uses the route_data.txt file.
 *****************************************************/
 
 #include <iostream>
