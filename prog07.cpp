@@ -1,16 +1,4 @@
 /****************************************************
-File Name:prog07_jac571.cpp
-
-Lab Section Number: L08
-Lab Section Instructor: Sandhya Rani Doti
-
-Author: Jorge Caviedes
-Date: 4/11/2017
-Problem Number: 1
-CS 1428 Spring 2017
-Lecture Instructor: Priebe
-
-
 The program will read in grade_data.txt input file, grade each exam and print out the score for that exam
 on a new text file called grade_report.txt.
 It will also keep track of how many students earned each score (0-10) and print a report after the grading.
