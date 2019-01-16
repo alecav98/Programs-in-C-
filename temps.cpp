@@ -1,20 +1,8 @@
 /****************************************************
-File Name:temps_jac571.cpp
-
-Lab Section Number: L08
-Lab Section Instructor: Sandhya Rani Doti
-
-Author: Jorge Caviedes
-Date: 3/29/2017
-Problem Number: 1
-CS 1428 Spring 2017
-Lecture Instructor: Priebe
-
-
-
 The program will compute and print out: the average daily high temperature for the
 entire month, the number of days over 100 for the month, and the maximum
-temperature for the month and on what day it occurred.
+temperature for the month and on what day it occurred. This program uses 
+summer_temps.txt file.
 *****************************************************/
 
 #include <iostream>
